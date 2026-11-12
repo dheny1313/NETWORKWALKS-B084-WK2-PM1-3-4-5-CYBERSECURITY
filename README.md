@@ -93,10 +93,10 @@ After completing the scan, I opened the **Topology** section in Zenmap, enabled 
 
 ## **5. Evidences Collected** 
 **whois**
-![whois](M1\whois.PNG "whois")
+![whois](M1/whois.PNG "whois")
 
 **whatweb**
-![whatweb](M1\whatweb.PNG "whatweb")
+![whatweb](M1/whatweb.PNG "whatweb")
 
 **nslookup**
 ![nslookup](M1/nslookup.PNG "nslookup")
@@ -108,10 +108,10 @@ After completing the scan, I opened the **Topology** section in Zenmap, enabled 
 ![wafw00f](M1/wafw00f_networkwalks.PNG "wafw00f")
 
 **dnsrecon**
-![dnsrecon](M1\6dnsrecon.PNG "dnsrecon")
+![dnsrecon](M1/6dnsrecon.PNG "dnsrecon")
 
 **Zenmap (Nmap GUI)**
-![Zenmap](M5\M5_ZNMAP.PNG "zenmap")
+![Zenmap](M5/M5_ZNMAP.PNG "zenmap")
 
 **Maltego**
 ![maltego](M3/maltego.PNG "maltego")
